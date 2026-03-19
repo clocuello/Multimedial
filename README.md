@@ -4,7 +4,7 @@
 
 Ejercicio 1, semana 1
 
-
+```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
 
@@ -73,3 +73,4 @@ MULTIMEDIAL
 
 </html>
 <!-- Fin del documento HTML -->
+```
