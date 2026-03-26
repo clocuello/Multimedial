@@ -4,10 +4,12 @@
 
 # INDICE
 
-1.[Ejercicio 1](#ejercicio-1-semana-1) <br>
-2.[Ejercicio 2](#ejercicio-2-semana-2) <br>
+1.[Semana 1](#ejercicio-1-semana-1) <br>
+2.[Semana 2](#ejercicio-2-semana-2) <br>
 
-# Ejercicio 1, semana 1
+## Semana 1
+
+Ejemplo 1
 
 ```
 <!DOCTYPE html>
@@ -80,8 +82,9 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 ```
 
-# Ejercicio 2, semana 2
+## Semana 2
 
+Ejemplo
 index.html
 ```
 <!DOCTYPE html>
