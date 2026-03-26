@@ -5,7 +5,7 @@
 # INDICE
 
 1.[Ejercicio 1](#ejercicio-1-semana-1) <br>
-2.[Ejercicio 2]( ) <br>
+2.[Ejercicio 2](#ejercicio-2-semana-2) <br>
 
 # Ejercicio 1, semana 1
 
