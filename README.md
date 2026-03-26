@@ -74,3 +74,41 @@ MULTIMEDIAL
 </html>
 <!-- Fin del documento HTML -->
 ```
+
+Ejercicio 2, semana 2
+
+index.html
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mi sitio</title>
+</head>
+
+<body>
+
+<h1>Página principal</h1>
+
+<a href="pagina2.html">Ir a la segunda página</a>
+
+</body>
+</html>
+```
+
+pagina2.html
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Página 2</title>
+</head>
+
+<body>
+
+<h1>Esta es la segunda página</h1>
+
+<a href="index.html">Volver a la página principal</a>
+
+</body>
+</html>
+```
