@@ -2,10 +2,13 @@
 
 ## Taller multimedia
 
+
 # INDICE
 
 1.[Semana 1](#semana-1) <br>
 2.[Semana 2](#semana-2) <br>
+
+
 
 # Semana 1
 
