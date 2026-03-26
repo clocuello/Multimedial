@@ -5,12 +5,11 @@
 # INDICE
 
 1.[Semana 1](#semana-1) <br>
-2.[Semana 2](#ejercicio-2-semana-2) <br>
+2.[Semana 2](#semana-2) <br>
 
 ## Semana 1
 
-Ejemplo 1
-
+# Ejemplo 1
 ```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -84,8 +83,13 @@ MULTIMEDIAL
 
 ## Semana 2
 
-Ejemplo
+# Ejemplo 1
+```
+<a href="pagina2.html">Ir a la página 2</a>
 index.html
+```
+
+# Ejemplo 2 (con dos paginas)
 ```
 <!DOCTYPE html>
 <html>
@@ -120,3 +124,9 @@ pagina2.html
 </body>
 </html>
 ```
+
+# Ejemplo 3 (abrir el link en otra pestaña)
+```
+<a href="https://www.wikipedia.org" target="_blank">Ir a Wikipedia</a>
+```
+
