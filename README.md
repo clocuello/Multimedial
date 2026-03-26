@@ -2,7 +2,12 @@
 
 ## Taller multimedia
 
-Ejercicio 1, semana 1
+# INDICE
+
+1.[Ejercicio 1]() <br>
+2.[Ejercicio 2] 
+
+# Ejercicio 1, semana 1
 
 ```
 <!DOCTYPE html>
@@ -75,7 +80,7 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 ```
 
-Ejercicio 2, semana 2
+# Ejercicio 2, semana 2
 
 index.html
 ```
