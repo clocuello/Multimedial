@@ -136,7 +136,36 @@ pagina2.html
 <a href="https://www.wikipedia.org" target="_blank">Ir a Wikipedia</a>
 ```
 
-# Semana 3 
+# Semana 3 (mini sitio, 3 páginas conectadas)
+
+index.html:
+```
+<h1>Mi sitio</h1>
+
+<a href="obra.html">Obra</a><br>
+<a href="contacto.html">Contacto</a>
+```
+
+obra.html
+```
+<h1>Mi obra</h1>
+
+<p>Descripción de mi trabajo artístico</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="contacto.html">Contacto</a>
+```
+
+contacto.html:
+```
+h1>Contacto</h1>
+
+<p>email@email.com</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="obra.html">Obra</a>
+```
+
 
 
 
