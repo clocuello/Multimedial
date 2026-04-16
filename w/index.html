@@ -1,18 +1,8 @@
 <!DOCTYPE html>
-<!-- Indica al navegador que este documento usa HTML5 -->
-
-<html>
-<!-- Inicio del documento HTML -->
-
+<html lang="es">
 <head>
-<!-- Sección donde van metadatos, título y estilos -->
-
 <meta charset="UTF-8">
-<!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
-
 <title>Multimedial</title>
-<!-- Título de la página que aparece en la pestaña del navegador -->
-
 <style>
 /* Aquí comienza la sección de estilos CSS que define la apariencia visual */
 
@@ -34,6 +24,9 @@ body{
   display: flex;
   /* Activa el sistema Flexbox para organizar y centrar elementos */
 
+  flex-direction: column;
+  /* Organiza los elementos en columna para que los links queden debajo del nombre */
+
   justify-content: center;
   /* Centra el contenido horizontalmente */
 
@@ -46,23 +39,37 @@ body{
   font-size: 60px;
   /* Define el tamaño grande del texto */
 
+  text-align: center;
+  /* Centra el texto alineado */
+
 }
 /* Fin de las reglas de estilo del body */
 
+small {
+  font-size: 20px;
+  /* Tamaño más pequeño para los links en comparación con los 60px del nombre */
+}
+
+a {
+  color: burlywood;
+  text-decoration: none;
+}
+
 </style>
-<!-- Fin de la sección de estilos -->
-
 </head>
-<!-- Fin de la sección head -->
-
 <body>
-<!-- Inicio del contenido visible de la página -->
+Claudia Cuello
+  
+  <div style="font-size: 25px; margin-bottom: 10px;">Artista visual</div>
+  
+  <div class="bloque">
+      <small>
+          <a href="obra.html">Obra</a> | 
+          <a href="contacto.html">Contacto</a>
+      </small>
+  </div>
 
-MULTIMEDIAL
-<!-- Texto que aparece en el centro de la pantalla -->
+  <img src="" alt="">
 
 </body>
-<!-- Fin del contenido visible -->
-
 </html>
-<!-- Fin del documento HTML -->
